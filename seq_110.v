@@ -1,5 +1,5 @@
 /* ==========================================
-                  SEQUENCE 101
+                  SEQUENCE 110
 =============================================
 Description:
  This Moore FSM detects the non-overlapping
@@ -7,7 +7,7 @@ Description:
  arrives LSB-first.
 
 Design Engineers:
- Pamposa, Rogelio III, V.
+ Caro, Mark Denzen P.
 
 Date:
  31 Mar 2026

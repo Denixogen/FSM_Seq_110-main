@@ -1,4 +1,4 @@
-// testbench for seq_101
+// testbench for seq_110
 module testbench;
  // tb signals
  reg in;
@@ -7,7 +7,7 @@ module testbench;
  wire out;
  wire state;
  
- // instantiate seq_101
+ // instantiate seq_110
  seq_110 dut (
   .out(out),
   .state(state),
