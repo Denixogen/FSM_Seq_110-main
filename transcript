@@ -1,6 +1,6 @@
 vsim work.testbench
 # vsim work.testbench 
-# Start time: 11:18:51 on Apr 14,2026
+# Start time: 11:26:16 on Apr 14,2026
 # Loading work.testbench
 # Loading work.seq_110
 # ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (1) for port 'state'. The port definition is at: C:/Users/Mark/Documents/Seq_110/FSM_Seq_110-main/FSM_Seq_110-main/seq_110.v(16).
@@ -12,9 +12,9 @@ add wave -position end  sim:/testbench/out
 add wave -position end  sim:/testbench/state
 # ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
 #           File in use by: Administrator  Hostname: PO  ProcessID: 3292
-#           Attempting to use alternate WLF file "./wlft00knn4".
+#           Attempting to use alternate WLF file "./wlft7esz0z".
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft00knn4
+#           Using alternate file: ./wlft7esz0z
 run
-# End time: 11:24:51 on Apr 14,2026, Elapsed time: 0:06:00
-# Errors: 0, Warnings: 5
+# End time: 11:31:28 on Apr 14,2026, Elapsed time: 0:05:12
+# Errors: 0, Warnings: 4

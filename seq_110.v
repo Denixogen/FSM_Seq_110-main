@@ -53,22 +53,27 @@ module seq_110(out,state,in,clk,rst_n);
     out = 0;
     state = S0;
    end
+	
    S1: begin 
     out = 0;
     state = S1;
    end
+	
    S2: begin 
     out = 0;
     state = S2;
    end
+	
    S3: begin 
     out = 1;
     state = S3;
    end
+	
    default: begin
     out = 0;
     state = S0;
    end
+	
   endcase
  end
 endmodule
